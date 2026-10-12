@@ -1,0 +1,6 @@
+.env
+.env.*
+!.env.example
+node_modules/
+Ruinforge-deploy.zip
+.DS_Store
